@@ -1,0 +1,11 @@
+Enter no. of students:
+100
+
+Note: The numbers after each group represents the marks of students that belong to the respective groups.
+
+GROUP 1 Representative: 76
+83 72 64 76 82 86 73 80 70 72 77 92 88 79 86 74 75 76 83 68 75 96 66 96 96 75 93 87 72 85 73 68 97 83 86 89 80 82 80 71 84
+GROUP 2 Representative: 52
+40 38 32 43 50 53 41 59 35 45 57 38 37 43 61 57 59 37 40 55 42 48 52 36 42 34 35 50 48 39
+GROUP 3 Representative: 12
+15 10 13 31 2 28 12 21 15 22 3 16 20 12 5 14 27 19 9 4 3 1 29 10 27 19 8 21 18
