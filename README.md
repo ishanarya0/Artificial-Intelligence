@@ -17,7 +17,7 @@ Assignments for A.I.
 **Related File** : Assignment_2_8queensUsingAstar.pdf 
 **Comments** : Heuristic Function: Number of feasible blocks remaining. 
 
- #  Genitic Algorithm
+ #  Genetic Algorithm
 **Code File Name** : Assignment_3_GroupingPopulationUsingGeneticAlgo.cpp
 **Compilation Instruction** : g++ Assignment_3_GroupingPopulationUsingGeneticAlgo.cpp
 **Output File** : 2.txt
